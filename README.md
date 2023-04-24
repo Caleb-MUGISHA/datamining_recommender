@@ -15,11 +15,11 @@ If an anime that was not trained with the model is entered, the system will flag
 # Technology
 The recommender system is built using Python and the following libraries:
 
--- pandas
--- numpy
--- sklearn
--- Gradio
--- Keras
+- pandas
+- numpy
+- sklearn
+- Gradio
+- Keras
 The system uses collaborative filtering to generate recommendations based on user ratings. 
 
 # Authors
