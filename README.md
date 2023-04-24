@@ -20,7 +20,8 @@ The recommender system is built using Python and the following libraries:
 - sklearn
 - Gradio
 - Keras
-The system uses collaborative filtering to generate recommendations based on user ratings. 
+
+-- The system uses collaborative filtering to generate recommendations based on user ratings. 
 
 # Authors
 This anime recommender system was created by Caleb Mugisha.
